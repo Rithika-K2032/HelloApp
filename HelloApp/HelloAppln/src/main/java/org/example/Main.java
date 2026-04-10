@@ -1,4 +1,5 @@
-public class HelloApp {
+package org.example;
+public class Main {
     public static void main(String[] args) {
 
         if (args.length == 0) {
